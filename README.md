@@ -1,8 +1,8 @@
 ### Hey there 👋
 
-Im currently a second year student at the University of Alberta studying Computer Science and Physics as a double major. My interests are data science and computational physics.
+ - Im currently a second year student at the University of Alberta studying Computer Science and Physics as a double major. My interests are data science and computational physics.
 
-Im currently working on a project using python to predict asteriod impacts on the moon using current nasa data.
+ - Im currently working on a project using python to predict asteriod impacts on the moon using current nasa data.
 
 
 
