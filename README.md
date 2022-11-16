@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hey there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhoShotCupidd&count_private=true)
+Im currently a second year student at the University of Alberta studying Computer Science and Physics as a double major. My interests are data science and computational physics.
 
+Im currently working on a project using python to predict asteriod impacts on the moon using current nasa data.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhoShotCupidd)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **WhoShotCupidd/WhoShotCupidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
