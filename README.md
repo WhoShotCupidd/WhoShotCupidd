@@ -4,7 +4,7 @@
 
  - Im currently working on a project using python to predict asteriod impacts on the moon using current nasa data.
 
-https://github-readme-streak-stats.herokuapp.com/?user=WhoShotCupidd
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhoShotCupidd)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
