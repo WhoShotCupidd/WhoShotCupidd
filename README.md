@@ -6,6 +6,15 @@
 
 
 
+### Skills
+
+ - Python (3 Years)
+ - PostGreSQL (1 Year)
+ - Java (Learning)
+ - C (Learning)
+ - RISC V (Learning)
+ - Linux Enviroment (2 Years)
+
 <!--
 **WhoShotCupidd/WhoShotCupidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
