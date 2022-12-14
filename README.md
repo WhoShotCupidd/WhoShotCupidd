@@ -16,8 +16,6 @@
  - Linux Enviroment (2 Years)
 
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
-
 <!--
 **WhoShotCupidd/WhoShotCupidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
