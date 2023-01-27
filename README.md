@@ -2,7 +2,7 @@
 
  - Im currently a second year student at the University of Alberta studying Computer Science and Physics as a double major. My interests are data science and computational physics.
 
- - Im currently working on a project using python to predict asteriod impacts on the moon using current nasa data.
+ - Im currently working on a project using Arduino IDE and C++ to code a microcontroller to use data to appropriately respond to the enviroment during a rocket launch and landing. This project is challenging my Git and C skills.
 
 
 
