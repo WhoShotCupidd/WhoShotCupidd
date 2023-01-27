@@ -9,11 +9,11 @@
 ### Skills
 
  - Python (3 Years)
+ - UNIX Enviroment (2 Years)
+ - Git Version Controll (2 Years)
+ - C (1 Year)
  - PostGreSQL (1 Year)
- - Java (Learning)
- - C (Learning)
  - RISC V (Learning)
- - Linux Enviroment (2 Years)
 
 
 <!--
