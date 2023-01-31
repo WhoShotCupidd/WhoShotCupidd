@@ -10,7 +10,7 @@
 
  - Python (3 Years)
  - UNIX Enviroment (2 Years)
- - Git Version Controll (2 Years)
+ - Git Version Control (2 Years)
  - C (1 Year)
  - PostGreSQL (1 Year)
  - RISC V (Learning)
