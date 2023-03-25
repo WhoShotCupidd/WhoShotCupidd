@@ -12,7 +12,7 @@
  - UNIX Enviroment (2 Years)
  - Git Version Control (2 Years)
  - C (1 Year)
- - RISC V (Learning)
+ - RISC V (1 Year)
 
 
 <!--
