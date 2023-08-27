@@ -1,6 +1,6 @@
 ### Hey there 👋
 
- - Im currently a second-year student at the University of Alberta studying Mathematics with a Specialization in Computing Science. My interests are data science, computational physics, and PCB design.
+ - Im currently a third-year student at the University of Alberta studying Mathematics with a Specialization in Computing Science. My interests are data science, computational physics, and PCB design.
 
  - Im currently working on a project using Arduino IDE and C++ to code a microcontroller to use data to appropriately respond to the environment during a rocket launch and landing. This project is challenging my Git and C skills.
 
