@@ -1,17 +1,17 @@
 ### Hey there 👋
 
- - Im currently a third-year student at the University of Alberta studying Mathematics with a Specialization in Computing Science. My interests are data science, computational physics, and PCB design.
+ - Im currently a third-year student at the University of Alberta studying Mathematics with a Specialization in Computing Science. My interests are embedded systems, designing operating systems, compilier optimization.
 
- - Currently making an OS 
+ - Currently working on designing an operating system forked off of rasberry-pi OS to design a system capable of high levels of redundancy during a rocket launch enviroment (In partnership with STARR (Student Team for Alberta Rocketry Research) and the University of Alberta)
 
 
-### Skills
+### Top Skills
 
  - Python (3 Years)
  - UNIX Environment (2 Years)
  - Git Version Control (2 Years)
- - C (1 Year)
- - RISC V (1 Year)
+ - C (2 Year)
+ - RISC V (2 Year)
 
 
 <!--
