@@ -1,6 +1,6 @@
 ### Hey there 👋
 
- - I'm currently a third-year student at the University of Alberta studying Mathematics with a Specialization in Computing Science. My interests are embedded systems, designing operating systems, and compiler optimization.
+ - I'm currently a fourth-year student at the University of Alberta studying Mathematics with a Specialization in Computing Science. My interests are embedded systems, designing operating systems, and compiler optimization.
 
  - Currently working on designing an operating system forked off of raspberry-pi OS to design a system capable of high levels of redundancy during a rocket launch environment (In partnership with STARR (Student Team for Alberta Rocketry Research) and the University of Alberta)
 
